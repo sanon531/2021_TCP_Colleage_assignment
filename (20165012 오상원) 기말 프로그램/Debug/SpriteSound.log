@@ -1,0 +1,11 @@
+﻿  SpriteSound.cpp
+d:\server\ngpgwaje\(20165012 오상원) 기말 프로그램\spritesound.cpp(91): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+d:\server\ngpgwaje\(20165012 오상원) 기말 프로그램\spritesound.cpp(302): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(2263): note: 'sscanf' 선언을 참조하십시오.
+d:\server\ngpgwaje\(20165012 오상원) 기말 프로그램\spritesound.cpp(468): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\server\ngpgwaje\(20165012 오상원) 기말 프로그램\spritesound.cpp(507): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\server\ngpgwaje\(20165012 오상원) 기말 프로그램\spritesound.cpp(480): warning C4101: 'temp' :참조되지 않은 지역 변수입니다.
+d:\server\ngpgwaje\(20165012 오상원) 기말 프로그램\spritesound.cpp(548): warning C4101: 'SpriteRect' :참조되지 않은 지역 변수입니다.
+d:\server\ngpgwaje\(20165012 오상원) 기말 프로그램\spritesound.cpp(562): warning C4101: 'SpriteRect' :참조되지 않은 지역 변수입니다.
+  SpriteSound.vcxproj -> D:\Server\NGPGwaje\(20165012 오상원) 기말 프로그램\Debug\SpriteSound.exe
